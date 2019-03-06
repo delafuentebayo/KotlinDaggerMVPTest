@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Demo JMF</string>
+    <string name="app_test">App Demo</string>
+    <string name="visible_items">Filter by visible items only</string>
+    <string name="network_error">Seems to be network issues</string>
+    <string name="server_error">Seems to be server error</string>
+    <string name="account_name">Account name:  %1$s</string>
+    <string name="account_number">Account number:  %1$s</string>
+    <string name="account_id">Account id:  %1$s</string>
+    <string name="account_iban">Account iban:  %1$s</string>
+    <string name="account_type">Account type:  %1$s</string>
+    <string name="account_alias">Account alias:  %1$s</string>
+    <string name="account_balance">Current balance:  %1$s %2$s</string>
+    <string name="linked_account">Linked Account:  %1$s</string>
+    <string name="product_name">Product name:  %1$s</string>
+    <string name="product_type">Product type:  %1$s</string>
+    <string name="saving_target">Saving target reached:  %1$s</string>
+    <string name="target_amount">Target amount:  %1$s %2$s</string>
+
+</resources>
